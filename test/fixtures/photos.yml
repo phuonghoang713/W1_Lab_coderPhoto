@@ -1,0 +1,14 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+one:
+  username: 
+  caption: 
+  likes_count: 
+  url: 
+  created_at: 
+
+two:
+  username: 
+  caption: 
+  likes_count: 
+  url: 
+  created_at: 
